@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Indoor Ambient Temperature Predictor</string>
+    <string name="button_startPrediction">Start Prediction</string>
+    <string name="button_stopPrediction">Stop Prediction</string>
+    <string name="button_viewTemperature">View Temperature</string>
+    <string name="textview_currentTemperature">Predicted Temperature</string>
+</resources>
